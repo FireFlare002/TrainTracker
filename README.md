@@ -2,4 +2,4 @@
 
 Basic train tracker with firebase functionality
 
-Heroku deployment: https://intense-plains-65113.herokuapp.com/
+Heroku deployment: https://salty-refuge-80642.herokuapp.com/
